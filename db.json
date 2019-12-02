@@ -1,0 +1,87 @@
+{ 
+   "status":"ok",
+   "source":"polygon",
+   "sortBy":"top",
+   "articles":[ 
+      { 
+         "author":"Owen S. Good",
+         "title":"Broly’s Dragon Ball Super form joins Dragon Ball Fighterz next week",
+         "description":"Sixth and final fighter for the second season of DLC",
+         "url":"https://www.polygon.com/2019/11/30/20989492/dragon-ball-fighter-z-roster-broly-dbs-release-dates-pc-ps4-nintendo-switch-xbox-one",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/P7kOyzYN4hPLeLYdQZeka1_cSYs=/0x8:1145x607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19419826/Screen_Shot_2019_11_30_at_4.24.06_PM.png",
+         "publishedAt":"2019-11-30T21:25:30Z"
+      },
+      { 
+         "author":"Nicole Carpenter",
+         "title":"Black Friday 2019: Mario Kart 8 Deluxe bundle, $25 Amazon credit with new Switch model",
+         "description":"Nintendo announced its Black Friday deals today, the biggest of which is the Mario Kart 8 Deluxe bundle that gives players the game free with the Nintendo Switch — but only the old version. Amazon is offering a $25 credit with the updated, longer battery model.",
+         "url":"https://www.polygon.com/2019/11/7/20953318/black-friday-2019-nintendo-switch-mario-kart-8-deluxe-bundle",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/0lpJl9Ty5tsEd70qFO-14lTEGhQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8030119/nintendo_switch_with_dock.jpg",
+         "publishedAt":"2019-11-07T16:08:14Z"
+      },
+      { 
+         "author":"Owen S. Good",
+         "title":"Atari VCS delayed for Indiegogo backers",
+         "description":"They’ll still get it before everyone else, but not in December",
+         "url":"https://www.polygon.com/pc/2019/11/30/20989415/atari-vcs-indiegogo-delayed-release-dates-gamestop-walmart-preorder",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/Mx8RJlrKmiWQOADfD2TvzHD6YB0=/0x153:2400x1410/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16334187/ATARI_VCS_Hero_Group.jpg",
+         "publishedAt":"2019-11-30T20:10:47Z"
+      },
+      { 
+         "author":"Owen S. Good",
+         "title":"Ghost Recon Breakpoint survey says players want AI teammates, offline play",
+         "description":"Ubisoft Paris posted the results of a two-week survey of players of Ghost Recon Breakpoint, saying many of their requests for the beleaguered open-world shooter are “in-progress” to be implemented in 2020.",
+         "url":"https://www.polygon.com/2019/11/30/20989243/ghost-recon-breakpoint-patch-community-survey-results-ai-teammates-online-only-pc-ps4-xbox-one",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/dZc3N6H5beUw3lltiGttvtmGhs8=/0x0:960x503/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19419415/Screen_Shot_2019_11_30_at_12.26.56_PM.png",
+         "publishedAt":"2019-11-30T17:34:20Z"
+      },
+      { 
+         "author":"Austen Goslin",
+         "title":"Uno removes red and blue cards to try to keep politics out of games",
+         "description":"To help keep your holiday gatherings (that’s political, for sure) from getting too contentious, Mattel has released a new version of Uno called Uno Nonpartisan that removes the red and blue cards.",
+         "url":"https://www.polygon.com/2019/11/29/20988108/uno-nonpartisan-red-blue-veto",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/jjte5-8Ufebd1ByzDkYTYvspMgA=/0x119:500x381/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19417701/uno.jpg",
+         "publishedAt":"2019-11-29T18:02:22Z"
+      },
+      { 
+         "author":"Colin Campbell",
+         "title":"Paper Beast is a charming, magical VR journey",
+         "description":"PlayStation VR exclusive Paper Beast from Pixel Reef is a Journey-like odyssey into a mystical world. It bodes well for Sony’s platform",
+         "url":"https://www.polygon.com/2019/11/29/20978202/paper-beast-playstation-vr-psvr-preview",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/qdIlvKQiXt2Q1usP72-BGRS8OhM=/52x0:1834x933/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19400978/paperbeast.png",
+         "publishedAt":"2019-11-29T14:00:00Z"
+      },
+      { 
+         "author":"Michael McWhertor",
+         "title":"Codemasters buys Project CARS developer Slightly Mad Studios for $30M",
+         "description":"Codemasters now owns the Project CARS series and its developer Slightly Mad Studios.",
+         "url":"https://www.polygon.com/2019/11/28/20987245/codemasters-buys-project-cars-developer-slightly-mad-studios",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/dFFcMHr9IEdvvmQp5dEHVEeC0uo=/0x39:1280x709/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19416453/ss_81624c3d67826405475662008961f70fdef766d6.jpg",
+         "publishedAt":"2019-11-28T19:42:14Z"
+      },
+      { 
+         "author":"Colin Campbell",
+         "title":"Gaming community pulls together to tackle breast cancer",
+         "description":"Casual games portal Big Fish launched a player-program alongside its donation to the National Breast Cancer Foundation.",
+         "url":"https://www.polygon.com/2019/11/28/20987149/big-fish-national-breast-cancer-foundation-decurse",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/h-V4090zHY2h9nKj2Shs4Kk9Q3g=/0x591:8256x4914/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19416296/BIGFISH_NBCF_PINKDAY2019_Team_in_Shirts.jpg",
+         "publishedAt":"2019-11-28T19:24:27Z"
+      },
+      { 
+         "author":"Nicole Carpenter",
+         "title":"Stardew Valley got a massive update this week",
+         "description":"Stardew Valley developer Eric Barone uploaded a massive patch, the 1.4 update, this week. There are tons of new things in the game, including a movie theater, new events and dialogue, and clothing. Oh! And your ex-spouses will no longer attend your new weddings.",
+         "url":"https://www.polygon.com/2019/11/28/20986977/stardew-valley-update-concernedape-version-1-4",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/xxCIJGu4rQqdXstkb6TMJmDOnUk=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6132551/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.0.jpg",
+         "publishedAt":"2019-11-28T15:24:23Z"
+      },
+      { 
+         "author":"Julia Lee",
+         "title":"Animal Crossing: Pocket Camp is still fixing old features to right the ship",
+         "description":"The latest update to Animal Crossing: Pocket Camp fixed Gulliver’s Ship and introduced some subscription plans for the game.",
+         "url":"https://www.polygon.com/2019/11/28/20982129/animal-crossing-pocket-camp-update-gullivers-ship",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/SP2QDJz9a6M6DSlyUJyKflxxYy4=/0x118:818x546/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19410783/IMG_1110.jpg",
+         "publishedAt":"2019-11-28T15:00:00Z"
+      }
+   ]
+}
